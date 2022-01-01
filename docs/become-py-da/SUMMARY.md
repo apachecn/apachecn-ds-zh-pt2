@@ -1,3 +1,4 @@
++   [Python 数据分析师修炼指南](README.md)
 +   [零、前言](0.md)
 +   [一、Python 发行版和 Jupyter 笔记本](1.md)
 +   [二、将 NumPy 用于向量化运算](2.md)
