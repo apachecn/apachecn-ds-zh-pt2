@@ -1,4 +1,4 @@
-# 第二部分问题分类
+# 第二部分：问题分类
 
 Classes of Problems
 

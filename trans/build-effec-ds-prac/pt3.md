@@ -1,4 +1,4 @@
-# 第三部分技巧和技术
+# 第三部分：技巧和技术
 
 Techniques and Technologies
 

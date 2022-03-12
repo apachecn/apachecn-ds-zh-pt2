@@ -1,4 +1,4 @@
-# 第四部分建立团队和执行项目
+# 第四部分：建立团队和执行项目
 
 Building Teams and Executing Projects
 
