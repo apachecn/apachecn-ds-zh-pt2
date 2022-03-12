@@ -8,16 +8,6 @@
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
-## 目录
-
-+   [Python 数据分析师修炼指南](docs/become-py-da/SUMMARY.md)
-+   [Python 数据分析入门指南](docs/get-start-py-da/SUMMARY.md)
-+   [Python 探索性数据分析实用指南](docs/handson-exp-da-py/SUMMARY.md)
-+   [Python 地理空间分析学习手册](docs/learn-geospace-anal-py/SUMMARY.md)
-+   [精通 Python 数据分析](docs/master-py-da/SUMMARY.md)
-+   [Python 数据分析教程](docs/py-da/SUMMARY.md)
-+   [Python 数据分析秘籍](docs/py-da-cb/SUMMARY.md)
-
 ## 贡献指南
 
 本项目需要校对，欢迎大家提交 Pull Request。
