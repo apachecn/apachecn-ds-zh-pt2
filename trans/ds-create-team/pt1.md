@@ -1,5 +1,4 @@
-# 第一部分
-定义数据科学
+# 第一部分：定义数据科学
 
 Defining Data Science
 

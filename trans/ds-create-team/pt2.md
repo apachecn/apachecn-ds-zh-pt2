@@ -1,5 +1,4 @@
-# 第二部分
-建立您的数据科学团队
+# 第二部分：建立您的数据科学团队
 
 Building Your Data Science Team
 

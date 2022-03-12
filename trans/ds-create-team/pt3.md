@@ -1,5 +1,4 @@
-# 第三部分
-实现数据科学冲刺
+# 第三部分：实现数据科学冲刺
 
 Delivering in Data Science Sprints
 

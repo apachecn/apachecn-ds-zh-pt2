@@ -1,5 +1,4 @@
-# 第四部分
-问伟大的问题
+# 第四部分：提出伟大的问题
 
 Asking Great Questions
 
